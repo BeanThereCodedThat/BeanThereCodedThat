@@ -20,7 +20,7 @@ vartaman.tripathi
 
 B.Tech CSE · KIIT Bhubaneswar · CGPA 8.83
 
-Backend-first engineer. I build things that run in production — auth systems, internal tools, web scrapers, Redis clones.
+Backend-first engineer. I build things that run in production — auth systems, internal tools, web scrapers, etc.
 
 ---
 
@@ -53,7 +53,7 @@ Backend-first engineer. I build things that run in production — auth systems, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vartaman-tripathi-895393356)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=githubpages&logoColor=white)](https://beantherecodedthat.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vartaman.tripathi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vartamantripathi@gmail.com)
 
 ```bash
 $ _
