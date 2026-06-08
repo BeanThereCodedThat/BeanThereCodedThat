@@ -18,7 +18,7 @@ $ whoami
 vartaman.tripathi
 ```
 
-SDE Intern @ **Radico Khaitan Ltd.** · B.Tech CSE · KIIT Bhubaneswar · CGPA 8.83
+B.Tech CSE · KIIT Bhubaneswar · CGPA 8.83
 
 Backend-first engineer. I build things that run in production — auth systems, internal tools, web scrapers, Redis clones.
 
@@ -46,16 +46,6 @@ Backend-first engineer. I build things that run in production — auth systems, 
 **[StayLens](https://github.com/BeanThereCodedThat/staylens)** — Hotel price intelligence engine. Java 21 + Spring Boot + Playwright + Spring Cache. Weighted ranking + coupon optimisation.
 
 **[HMS](https://github.com/BeanThereCodedThat/HMS-Health-Management-System-)** — Health management system. Spring Boot + MySQL.
-
----
-
-### `$ cat ~/experience`
-
-**SDE Intern — Radico Khaitan Ltd.** *(Jun 2026 – Sep 2026)*
-Built two internal production tools: a full-stack Dispensary Management System (10 modules, RBAC, Spring Boot 3 + React + JWT) and a Worker Attendance System (Flask + MySQL), serving ~500 plant employees.
-
-**Backend Intern — Rings & Bows** *(Apr 2025 – Jul 2025)*
-JWT auth backend from scratch. Spring Boot + Spring Security, zero third-party auth libraries, stateless single round-trip login.
 
 ---
 
